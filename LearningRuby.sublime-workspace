@@ -1,0 +1,269 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"csv_",
+				"csv_file_name"
+			],
+			[
+				"csv",
+				"csv_file_name"
+			],
+			[
+				"read",
+				"read_string"
+			],
+			[
+				"test",
+				"test_array"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "LearningRuby.sublime-project",
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Volumes/Ubuntu_DevBox/dev/ruby"
+	],
+	"file_history":
+	[
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/WORD_FREQ/test.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/WORD_FREQ/words_from_string.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/WORD_FREQ/count_frequency.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/WORD_FREQ/example.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/blocks.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/hash_table.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/CSV_PROJECT/hashes.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/CSV_PROJECT/book_in_stock.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/CSV_PROJECT/csv_reader.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/CSV_PROJECT/data.csv",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/CSV_PROJECT/stock_stats.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/method_access_control.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/class_setup.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/append_data.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/book_in_stock.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/CSVReader.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/books.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/ProgrammingRuby/command_line.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/orange_tree.rb",
+		"/Users/sirpedroec/Desktop/orange_tree.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/dragon.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/strings.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/yaml_methods.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/hash.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/die.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/save_load.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/yaml.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/hello.txt",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/lyrics.txt",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/roman_numerals.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/build_array.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/sorting.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/table_of_contents_adv.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/create_method.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/bottles_of_beer.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/do.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/array_methods.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/arary_methods.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/string_ordering.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/branching.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/math_obj.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/random_num.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/more_arithmetic.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/info.readme",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/self.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/string_methods.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/angry_boss.rb",
+		"/Volumes/Ubuntu_DevBox/dev/ruby/LearnToProgram/table_of_contents.rb",
+		"/Volumes/Ubuntu_DevBox/dev/rails/sample_app/test/controllers/static_pages_controller_test.rb",
+		"/Volumes/Ubuntu_DevBox/dev/rails/sample_app/test/models/user_test.rb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"yeild"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"yield"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "LearningRuby.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "LearningRuby.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
