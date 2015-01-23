@@ -8,14 +8,13 @@ class LogServer < GServer
 	end
 
 	def serve(client)
-		puts 'client connected'
+		puts "Client Connected"
 		client.puts get_end_of_log_file
-		
 	end
 
 	private
 	def get_end_of_log_file
-		File.open("testfile") do |log|
+		File.open("/var/log/system.log") do |log|
 			log.seek(-500, IO::SEEK_END)
 	    	log.gets
       		log.read
