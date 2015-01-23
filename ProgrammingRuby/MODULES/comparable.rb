@@ -1,3 +1,4 @@
+# This example shows how to make a Class Comparable with these operators: <,>,<=,>=,==
 class Person
 	
 	include Comparable # Include functionality for the class to be Comparable
