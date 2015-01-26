@@ -24,8 +24,10 @@ class String
 	end
 
 	def censor # Return string with swears replaces
+		
 		swears = ["shit", "crap"]
 		new_str = self
+
 		swears.each do |swear|
 			if swear =~ /#{swear}/i # /i means ignore case
 				new_str = new_str.gsub(/#{swear}/i, "█" * swear.length) 
@@ -35,6 +37,7 @@ class String
 		end
 
 		new_str
+
 	end
 end
 
